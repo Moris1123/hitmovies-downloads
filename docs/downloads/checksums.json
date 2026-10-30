@@ -1,14 +1,14 @@
 {
-  "HitMovies-Popup-Blocker.zip": {
-    "bytes": 9521,
-    "sha256": "9b5fa16abef6482798647d28f9f74be5c660132632b52d66e9c0c33a957d84c8"
-  },
   "HitMovies-Windows-Brave.zip": {
-    "bytes": 23144,
-    "sha256": "f3f2b8a6163e81bf3a13fa1ce7f390a018ce97251020047f3a08b3c2981a46a8"
+    "bytes": 23218,
+    "sha256": "3849ba91a854c0e281e60c9f9306bc82774b83cf7de4a4caa1f85466b24dc15e"
   },
   "HitMovies.ipa": {
-    "bytes": 60585,
-    "sha256": "9f4fc67d3c23abccf53057488445e37b55f446e0514d7bebbdec31ac55f0473a"
+    "bytes": 61297,
+    "sha256": "37ddd512f2bb5afa62b05b04403090f94b4794660eb7b69839c36e39146beb9a"
+  },
+  "HitMovies-Popup-Blocker.zip": {
+    "bytes": 9597,
+    "sha256": "78e32245a4b67cf707d1b51eeb097def4843eef252d66f2431473220177d34e9"
   }
 }
